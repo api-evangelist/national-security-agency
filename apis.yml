@@ -1,15 +1,23 @@
-name: national-security-agency
-description: Needs a description.
-image: https://kinlane-productions2.s3.amazonaws.com/apis-json-icons/apis-json.png
-url: https://example.com/apis/apis.yml
-type: Contract
+aid: national-security-agency
+name: National Security Agency
+description: >-
+  The National Security Agency (NSA) is a U.S. intelligence agency responsible
+  for global monitoring, collection, and processing of information and data for
+  foreign intelligence and counterintelligence purposes.
+type: Index
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+url: https://www.nsa.gov/
 created: '2024-12-25'
-modified: '2024-12-25'
-specificationVersion: '0.18'
+modified: '2026-03-16'
+specificationVersion: '0.19'
 tags:
-  - Tag
+  - Federal Government
+  - Security
+  - Intelligence
 apis: []
-common: []
+common:
+  - type: Website
+    url: https://www.nsa.gov/
 maintainers:
-  - FN: API Evangelist
-    email: info@apievangelist.com
+  - FN: Kin Lane
+    email: kin@apievangelist.com
