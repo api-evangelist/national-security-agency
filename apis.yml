@@ -16,6 +16,10 @@ tags:
   - Security
 apis: []
 common:
+  - type: GitHubOrganization
+    url: https://github.com/NationalSecurityAgency
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/national-security-agency
   - type: Website
     url: https://www.nsa.gov/
 maintainers:
