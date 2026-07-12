@@ -16,6 +16,8 @@ tags:
   - Security
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/national-security-agency-domain-security.yml
   - type: GitHubOrganization
     url: https://github.com/NationalSecurityAgency
   - type: LinkedIn
